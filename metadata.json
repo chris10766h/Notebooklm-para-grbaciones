@@ -1,0 +1,7 @@
+{
+  "name": "VoiceNotes Pro: AI Classroom Assistant",
+  "description": "A NotebookLM-style application designed for students to record classes, organize them into notebooks, and use AI to summarize and analyze their voice recordings. Supports cloud sync placeholders for Drive and OneDrive.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
